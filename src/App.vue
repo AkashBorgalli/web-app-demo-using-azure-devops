@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>Gen Predictions from ML model - Akash Borgalli</h1>
+    <h1>Generate Predictions from My ML model - Zenitsu Agatsuma</h1>
 	<h2>Upload your data to make to get predictions</h2>
     <img
       alt="Vue logo"
