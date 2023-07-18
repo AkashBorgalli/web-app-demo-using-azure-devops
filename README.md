@@ -1,4 +1,4 @@
-# cicdapp for MLOps Project V9
+# CI-CD for webapp using Azure DevOps Project V1
 
 ## Project setup
 ```
